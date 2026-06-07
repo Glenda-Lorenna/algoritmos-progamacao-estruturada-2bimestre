@@ -1,0 +1,2 @@
+7. Explique por que, no caso de listas, duas variaveis podem apontar para o mesmo objeto em Python.
+Listas são objetos mutáveis. Duas variáveis podem guardar referência para a mesma lista na memória.

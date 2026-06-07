@@ -1,0 +1,7 @@
+1. Explique com suas palavras o que e uma fila em programacao.
+
+Resposta: Uma fila em programacao e uma estrutura de dados usada para organizar elementos em uma ordem de entrada e saida. Ela funciona como uma fila de pessoas: quem chega primeiro fica na frente e tambem sera atendido primeiro.
+
+2. Qual e a principal regra de funcionamento de uma fila? Explique o conceito de FIFO.
+
+Resposta: A principal regra de funcionamento de uma fila e que o primeiro elemento inserido e o primeiro a sair. Esse conceito se chama FIFO, que significa "First In, First Out", ou seja, "primeiro a entrar, primeiro a sair". Por exemplo, se adicionarmos os numeros 1, 2 e 3 em uma fila, o primeiro numero a ser removido sera o 1, porque ele foi o primeiro colocado.

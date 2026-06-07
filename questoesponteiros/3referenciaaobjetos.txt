@@ -1,0 +1,3 @@
+3. Python possui ponteiros como C? Explique como Python trabalha com referencias a objetos.
+
+Python não possui ponteiros como C. Em Python, as variáveis guardam referências para objetos na memória.

@@ -1,0 +1,4 @@
+3. Explique o que sao nos filhos em uma arvore.
+
+Resposta: Nós filhos são os nós ligados abaixo de outro nó. Se “Pai” tem “Filho1” e “Filho2”, esses dois são filhos dele.
+

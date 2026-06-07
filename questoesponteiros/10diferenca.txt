@@ -1,0 +1,2 @@
+10. Explique a diferenca entre usar == e is em Python.
+== compara valores. is compara se duas variáveis apontam para o mesmo objeto

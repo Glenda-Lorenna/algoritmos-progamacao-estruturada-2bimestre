@@ -1,0 +1,3 @@
+5. Qual e a diferenca entre uma arvore e uma lista?
+
+Resposta: Uma lista é linear, ou seja, os elementos ficam em sequência. Uma árvore é hierárquica, com raiz, filhos e níveis.

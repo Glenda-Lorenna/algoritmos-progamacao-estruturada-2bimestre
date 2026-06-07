@@ -1,0 +1,3 @@
+1. Explique com suas palavras o que e uma arvore em estrutura de dados.
+
+Resposta: Uma árvore é uma estrutura de dados hierárquica, formada por nós ligados entre si, parecida com uma árvore de cabeça para baixo.

@@ -1,0 +1,2 @@
+14. Explique por que objetos mutaveis, como listas e dicionarios, podem ser alterados dentro de funcoes em Python.
+Objetos mutáveis, como listas e dicionários, podem ser alterados dentro de funções porque a função recebe uma referência para o mesmo objeto.

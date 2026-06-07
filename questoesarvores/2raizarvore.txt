@@ -1,0 +1,3 @@
+2. O que e o no raiz de uma arvore? De um exemplo.
+
+Resposta: O nó raiz é o primeiro nó da árvore, de onde todos os outros começam. Exemplo: em uma árvore de família, o avô pode ser a raiz.

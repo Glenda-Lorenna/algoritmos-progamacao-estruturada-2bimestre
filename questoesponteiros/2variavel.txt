@@ -1,0 +1,3 @@
+2. Em linguagens como C, o que significa dizer que uma variavel armazena o endereco de memoria de outra variavel?
+
+Em C, isso significa que a variável não guarda diretamente o valor, mas sim o local da memória onde esse valor está armazenado.

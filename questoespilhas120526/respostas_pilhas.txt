@@ -1,0 +1,7 @@
+1. Explique com suas palavras o que e uma pilha em programacao.
+
+Resposta: Uma pilha em programacao e uma estrutura de dados usada para guardar elementos de forma organizada. Ela funciona como uma pilha de pratos: os itens sao colocados um em cima do outro, e o ultimo item colocado fica no topo, sendo o primeiro a ser retirado.
+
+2. Qual e a principal regra de funcionamento de uma pilha? Explique o conceito de LIFO.
+
+Resposta: A principal regra de funcionamento de uma pilha e que o ultimo elemento inserido e o primeiro a sair. Esse conceito se chama LIFO, que significa "Last In, First Out", ou seja, "ultimo a entrar, primeiro a sair". Por exemplo, se adicionarmos os numeros 1, 2 e 3 em uma pilha, o primeiro numero a ser removido sera o 3, porque ele foi o ultimo colocado.

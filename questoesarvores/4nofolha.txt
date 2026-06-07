@@ -1,0 +1,3 @@
+4. Explique o que e um no folha em uma arvore.
+
+Resposta: Nó folha é um nó que não possui filhos

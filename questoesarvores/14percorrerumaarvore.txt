@@ -1,0 +1,3 @@
+14. Explique o que significa percorrer uma arvore.
+
+Resposta: Percorrer uma árvore significa visitar seus nós em uma determinada ordem.

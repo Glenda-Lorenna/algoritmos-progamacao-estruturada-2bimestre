@@ -1,0 +1,3 @@
+9. Explique o que e uma arvore binaria.
+
+Resposta: Uma árvore binária é uma árvore em que cada nó pode ter no máximo dois filhos: esquerdo e direito.

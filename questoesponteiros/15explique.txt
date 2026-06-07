@@ -1,0 +1,2 @@
+15. Explique por que objetos imutaveis, como inteiros, floats, strings e tuplas, nao sao alterados diretamente dentro de funcoes.
+Objetos imutáveis não são alterados diretamente. Quando mudamos um inteiro ou string, Python cria outro objeto.
